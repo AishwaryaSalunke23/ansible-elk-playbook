@@ -10,4 +10,5 @@
   - { role: elasticsearch }
   - { role: kibana }
   - { role: metricbeat }
+  - { role: filebeat }
 
